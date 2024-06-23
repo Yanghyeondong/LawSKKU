@@ -1,0 +1,1 @@
+python train.py --data_type mixed --epoch 5 --version 0609_5 --neg_num 10 --learning_rate 2e-6 --model_path checkpoints/june/roberta-base-0609_1

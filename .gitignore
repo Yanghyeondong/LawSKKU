@@ -1,0 +1,5 @@
+data/
+wandb/
+checkpoints/
+embeddings.pkl
+q_embeddings.pkl
